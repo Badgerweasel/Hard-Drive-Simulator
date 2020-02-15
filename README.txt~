@@ -1,0 +1,14 @@
+My project is capable of reading an input file that stores the input in the following manner:
+
+Time Track Sector
+
+My program does not validate input and will attempt to run with bad input. It will output information to the following files:
+
+FCFS_output
+SAMETRACK_output
+PICKUP_output
+LOOK_output
+CLOOK_output
+SUMMARY_output
+
+At the moment there areno known problems with my program.
