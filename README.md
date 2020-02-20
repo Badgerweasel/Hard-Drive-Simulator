@@ -5,5 +5,7 @@ The purpose of the project was to use various sorting methods to see which one w
 
 To run:
 -run the makefile
+
 -run ./simulation.x < sim.in
+
 -read the output contained in any of the Summary files
